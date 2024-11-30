@@ -1,0 +1,67 @@
+h1 {
+    text-align: center;
+    color: #8635d3;
+    font-size: 60px;
+    width: 1300px;
+    font-weight: 1000;
+}
+
+#amazing {
+    color: #FF0000;
+    font-size: 20px;
+    padding: 12px 20px;
+    text-align: center;
+    background-color: #FFE8E8;
+    width: 485px;
+    height: 38px;
+    line-height: normal;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#discounts {
+    color: #85647B;
+    text-align: center;
+    font-size: 26px;
+    font-style: normal;
+    border-right: 6px solid #0055FF;
+    border-left: 4px solid #C11574;
+    border-top: 1px solid #01c92d;
+    border-bottom: 1px solid #b000ff;
+    display: flex;
+    width: 535px;
+    height: 60px;
+    padding: 12px 40px;
+}
+
+#sale{
+    color: #414651;
+    background-color: #FFE8E8;
+    font-size: 22px;
+    width: 590px;
+    text-align: center;
+    padding: 12px 16px;
+
+}
+ 
+#home{
+    color: #FF4405;
+    font-size: 26px;
+    text-decoration-line: underline;
+    text-underline-position: auto;
+}
+
+#big{
+    color: #0064CE;
+    background-color: #FFF;;
+    font-size: 19px;
+    border: 2px solid;
+    padding: 12px 40px;
+    width: 567px;
+    text-align: right;
+    align-items: center;
+}
+
+img{
+    width: 370px;
+}
